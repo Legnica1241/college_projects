@@ -1,1 +1,1 @@
-# college_projects
+My projects for college academics
